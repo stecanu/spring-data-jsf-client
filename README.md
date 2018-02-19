@@ -148,3 +148,4 @@ public class StarterMBean {
 
 * Report documentation, features, enhancement and bugs at [github.com/joinfaces/joinfaces-example/issues](https://github.com/joinfaces/joinfaces-maven-jar-example/issues).
 * Pull requests are welcome.
+# spring-data-jsf-client
